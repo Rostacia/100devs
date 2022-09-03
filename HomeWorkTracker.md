@@ -16,5 +16,5 @@
 
 *Homework: Due by Class #4*
 Build: HTML for BBC Website (just what is in the class 2 homework zip file)
-USE: https://developer.mozilla.org/en-US/docs/Web/HTML
-Read:  https://learn.shayhowe.com/html-css/ (Read all 12)
+- USE: https://developer.mozilla.org/en-US/docs/Web/HTML
+- Read:  https://learn.shayhowe.com/html-css/ (Read all 12)

@@ -7,13 +7,9 @@
 - [x] Watch: https://youtu.be/Z-zNHHpXoMM
 - [x] Complete: https://www.coursera.org/learn/learning-how-to-learn (all 4 weeks, don’t pay!)
 
-*Homework: Due by Class #3*
-
 ## Class # 2 Become a software engineer
 - [x] Lecture: https://www.youtube.com/watch?v=eCRbEILXXmE&t=4s
 - [x] Motivation:  https://allpoetry.com/Desiderata---Words-for-Life
-
-*Homework: Due by Class #4*
 - [x] Build: HTML for BBC Website (just what is in the class 2 homework zip file) *use: https://developer.mozilla.org/en-US/docs/Web/HTML *
 - [x] Read:  https://learn.shayhowe.com/html-css/ (Read all 12)
 
@@ -35,3 +31,10 @@
 - [x] Read:  http://learnlayout.com/
 - [x] Do:  https://www.typingtest.com/ (Five Minute Test)
 - [x] Do: Practice Typing - https://www.keybr.com/
+
+## Class # 5 CSS Layout
+- [x] Lecture: https://www.youtube.com/watch?v=E6Z8cWU_fjI
+- [x] Motivation:  https://youtu.be/3sK3wJAxGfs
+- [x] Do: Complete The Three Layouts (last few slides HTML/CSS) Due class #6
+- [x] Read: https://learn.shayhowe.com/advanced-html-css/responsive-web-design/
+

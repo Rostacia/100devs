@@ -2,7 +2,6 @@
 
 ## Class # 1 Let’s Go! 
 - [x] Lecture: https://www.youtube.com/watch?v=o3IIobN4xR0
-- [x] Check-in: like and retweet this: https://twitter.com/leonnoel/status/1481030723347746816
 - [x] Motivation:  https://www.poetryfoundation.org/poems/51642/invictus
 - [x] Watch: https://youtu.be/ukLnPbIffxE
 - [x] Watch: https://youtu.be/Z-zNHHpXoMM
@@ -12,7 +11,6 @@
 
 ## Class # 2 Become a software engineer
 - [x] Lecture: https://www.youtube.com/watch?v=eCRbEILXXmE&t=4s
-- [x] Check-in:  Like and retweet https://twitter.com/leonnoel/status/1481755548227829764
 - [x] Motivation:  https://allpoetry.com/Desiderata---Words-for-Life
 
 *Homework: Due by Class #4*
@@ -20,11 +18,18 @@
 - [x] Read:  https://learn.shayhowe.com/html-css/ (Read all 12)
 
 ## Class # 3 Review and hands on keyboard
-- [ ] Lecture: https://www.youtube.com/watch?v=rdWM6kUImjE
-- [ ] Check-in:  Like and retweet https://twitter.com/leonnoel/status/1483567676626653185
-Motivation:  https://www.familyfriendpoems.com/poem/have-you-earned-your-tomorrow-by-edgar-albert-guest
+- [x] Lecture: https://www.youtube.com/watch?v=rdWM6kUImjE
+- [x] Motivation:  https://www.familyfriendpoems.com/poem/have-you-earned-your-tomorrow-by-edgar-albert-guest
 - [x] Keep reading: https://learn.shayhowe.com/html-css/ (all 12)
 
 *Homework: Due class #5* 
-- [ ] Read: https://learnlayout.com/
-- [ ] Finish: Labs From Class-03 - Khan Academy, Tech Crunch
+- [x] Read: https://learnlayout.com/
+- [x] Finish: Labs From Class-03 - Khan Academy, Tech Crunch
+
+## Class # 4 Style with CSS 
+- [x] Lecture: https://www.youtube.com/watch?v=Q1Obtn29twk
+- [x] Motivation:  https://youtu.be/6vuetQSwFW8
+- [x] Finish Simple Site Lab from class-04 (HTML & CSS)- Due class #6
+- [x] Read:  http://learnlayout.com/
+- [x] Do:  https://www.typingtest.com/ (Five Minute Test)
+- [x] Do: Practice Typing - https://www.keybr.com/

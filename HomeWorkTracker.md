@@ -29,7 +29,9 @@
 ## Class # 4 Style with CSS 
 - [x] Lecture: https://www.youtube.com/watch?v=Q1Obtn29twk
 - [x] Motivation:  https://youtu.be/6vuetQSwFW8
-- [x] Finish Simple Site Lab from class-04 (HTML & CSS)- Due class #6
+
+*Homework: Due class #6* 
+- [x] Finish Simple Site Lab from class-04 (HTML & CSS)
 - [x] Read:  http://learnlayout.com/
 - [x] Do:  https://www.typingtest.com/ (Five Minute Test)
 - [x] Do: Practice Typing - https://www.keybr.com/

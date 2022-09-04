@@ -17,4 +17,14 @@
 
 *Homework: Due by Class #4*
 - [x] Build: HTML for BBC Website (just what is in the class 2 homework zip file) *use: https://developer.mozilla.org/en-US/docs/Web/HTML *
-- [ ] Read:  https://learn.shayhowe.com/html-css/ (Read all 12)
+- [x] Read:  https://learn.shayhowe.com/html-css/ (Read all 12)
+
+## Class # 3 Review and hands on keyboard
+- [ ] Lecture: https://www.youtube.com/watch?v=rdWM6kUImjE
+- [ ] Check-in:  Like and retweet https://twitter.com/leonnoel/status/1483567676626653185
+Motivation:  https://www.familyfriendpoems.com/poem/have-you-earned-your-tomorrow-by-edgar-albert-guest
+- [x] Keep reading: https://learn.shayhowe.com/html-css/ (all 12)
+
+*Homework: Due class #5* 
+- [ ] Read: https://learnlayout.com/
+- [ ] Finish: Labs From Class-03 - Khan Academy, Tech Crunch

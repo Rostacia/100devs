@@ -38,3 +38,15 @@
 - [x] Do: Complete The Three Layouts (last few slides HTML/CSS) Due class #6
 - [x] Read: https://learn.shayhowe.com/advanced-html-css/responsive-web-design/
 
+## Class # 6 Relationship, Specificity, Box Model and Responsiveness
+- [x] Lecture: https://www.youtube.com/watch?v=L55ax0blZY0
+- [x] Motivation:  https://youtu.be/7Oxz060iedY
+
+## Class # 7 Responsive CSS
+- [x] Lecture: https://www.youtube.com/watch?v=k8r3B0JGMt4
+- [x] Check-in:  Like and retweet https://twitter.com/leonnoel/status/1488640947722145792
+- [x] Read: http://learnlayout.com/
+- [x] Read: https://learn.shayhowe.com/advanced-html-css/
+- [x] Read: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- [x] Do: http://flexboxfroggy.com/
+

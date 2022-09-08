@@ -44,9 +44,19 @@
 
 ## Class # 7 Responsive CSS
 - [x] Lecture: https://www.youtube.com/watch?v=k8r3B0JGMt4
-- [x] Check-in:  Like and retweet https://twitter.com/leonnoel/status/1488640947722145792
 - [x] Read: http://learnlayout.com/
 - [x] Read: https://learn.shayhowe.com/advanced-html-css/
 - [x] Read: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - [x] Do: http://flexboxfroggy.com/
 
+## Class # 8 Layouts and unleash your inner baddie
+- [x] Lecture: https://www.youtube.com/watch?v=PWVRSXQxsXc
+- [x] Complete: The 3 layouts we did in class
+- [x] Do: The Level Ground & Source Layouts in the homework-layout-photos
+- [x] Push?: Do Pushwork Homepage and add media queries to other layouts
+
+## Class # 9 Live networking
+- [x] Lecture: https://www.youtube.com/watch?v=OaglXfjsBaE
+- [x] Do: The 3 layouts we did in class
+- [x] Do: The Level Ground & Source Layouts in the homework-layout-photos
+- [x] Push?: Do Pushwork Homepage and add media queries to other layouts
